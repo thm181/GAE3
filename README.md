@@ -1,7 +1,6 @@
-# GAE2
-Data summary and communication:
+# GAE3
+Tests for two, or paired, samples:
   
-  1. Measure the maximum dimension of 20 red beans and 20 white beans.
-  2. Create an appropriately formatted .csv file for import to R
-  3. Summarize your data using measures of location (mean and median) and of dispersion (standard deviation, range, IQR).
-  4. Create a table and a figure communicating the data summary.
+  1. Copy your .Rmd and data file from GAE2
+  2. Use an appropriate test to test the null hypothesis of equal lengths for red and white beans.
+  3. Report your results.
